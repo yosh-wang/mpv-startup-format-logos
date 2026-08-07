@@ -220,45 +220,6 @@ portable_config/
 | `startup-format-logos-toggle` | 无 | 开关启用状态 |
 | `startup-format-logos-set-style` | `color` / `white` | 切换样式 |
 
-### 使用示例
-
-```lua
--- 在 mpv 中通过脚本调用
-mp.commandv("script-message", "startup-format-logos-toggle")
-
--- 预览 Dolby Vision + Dolby Atmos
-mp.commandv("script-message", "startup-format-logos-preview", "dolby-vision", "dolby-atmos")
-```
-
----
-
-## 📊 用户数据
-
-可通过 `mp.get_property_native("user-data/startup-format-logos/...")` 读取：
-
-| 键 | 类型 | 说明 |
-|----|------|------|
-| `enabled` | `bool` | 是否启用 |
-| `style` | `string` | 当前样式：`color` / `white` |
-| `video` | `string` | 当前视频格式 slug |
-| `audio` | `string` | 当前音频格式 slug |
-| `visible` | `string` | 是否可见：`yes` / `no` |
-
-### 使用示例
-
-```lua
-local enabled = mp.get_property_bool("user-data/startup-format-logos/enabled")
-local video = mp.get_property("user-data/startup-format-logos/video")
-mp.msg.log("info", "Current video format: " .. video)
-```
-
----
-
-## 🔧 依赖
-
-- **mpv 0.33+**（支持 `overlay-add` 和 `user-data`）
-- **图标资源包**（见 [Releases](https://github.com/yourname/mpv-startup-format-logos/releases)）
-
 ---
 
 ## 📝 支持的格式列表
@@ -332,7 +293,6 @@ MIT License
 
 - [mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) — 本脚本的原始来源，感谢 @Yaozhil 的杰出工作
 - [mpv](https://mpv.io/) — 强大的媒体播放器
-- 图标设计灵感来自 Dolby、DTS 等品牌官方指南
 
 ---
 
