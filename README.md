@@ -1,88 +1,118 @@
+```markdown
+# 🎬 MPV Player · 硬核技术交流群
+
+[![QQ Group](https://img.shields.io/badge/QQ群-1097053691-12B7F5?logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/KQZsl4wFmG)
+[![Members](https://img.shields.io/badge/群成员-1000+-4CAF50)](https://qm.qq.com/q/KQZsl4wFmG)
+
+---
+> **🎯 mpv · 为画质而生，为技术而狂 · mpv 🎯**
+---
+
+## 📌 群信息
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding: 0;">
+      <table>
+        <tr><td><strong>QQ 群号</strong></td><td><code>1097053691</code></td></tr>
+        <tr><td><strong>加入链接</strong></td><td><a href="https://qm.qq.com/q/KQZsl4wFmG">点击加入</a></td></tr>
+        <tr><td><strong>群成员</strong></td><td>1000+ MPV </td></tr>
+        <tr><td><strong>群性质</strong></td><td>热心发电 · 免费交流</td></tr>
+        <tr><td><strong>分享内容</strong></td><td>配置 / 脚本 / 着色器 / 懒人包</td></tr>
+        <tr><td><strong>适合人群</strong></td><td>新手入门·玩家折腾·开发交流</td></tr>
+        <tr><td><strong>群目标</strong></td><td>互助 · 分享 · 共同折腾</td></tr>
+        <tr><td><strong>进群暗号</strong></td><td>mpv 玩家</td></tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 0;">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="QQ Group1.jpg" alt="QQ群二维码" width="200">
+          </td>
+          <td align="center">
+            <img src="QQ Group2.png" alt="群内讨论截图" width="200">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+---
+# mpv-startup-format-logos
+
+> 本脚本提取自 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 整合包，是其中"专业起播格式标识"功能的独立实现。感谢 @Yaozhil 为 mpv 中文社区所做的卓越贡献！ 🙏
+
+在 mpv 播放器启动时，于画面角落显示当前视频/音频格式的徽章（如 Dolby Vision、Dolby Atmos、HDR10+、FLAC 等）。
+
+[![GitHub stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
+[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/watchers)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
+[![GitHub issues](https://img.shields.io/github/issues/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+[![GitHub license](https://img.shields.io/github/license/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/releases/latest)
+[![GitHub tag](https://img.shields.io/github/v/tag/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/tags)
+[![GitHub release date](https://img.shields.io/github/release-date/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/releases)
+[![GitHub downloads (latest)](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/latest/total)](https://github.com/yosh-wang/mpv-startup-format-logos/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/total)](https://github.com/yosh-wang/mpv-startup-format-logos/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (monthly)](https://img.shields.io/github/commit-activity/m/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (weekly)](https://img.shields.io/github/commit-activity/w/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (yearly)](https://img.shields.io/github/commit-activity/y/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+[![GitHub contributors (anon)](https://img.shields.io/github/contributors-anon/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+
+[![GitHub top language](https://img.shields.io/github/languages/top/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub language count](https://img.shields.io/github/languages/count/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub repo size](https://img.shields.io/github/repo-size/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub file count](https://img.shields.io/github/directory-file-count/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![Lines of Code](https://img.shields.io/tokei/lines/github/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
+![MPV](https://img.shields.io/badge/MPV-Player-blue)
+![Language](https://img.shields.io/badge/Language-Lua-red)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
 ---
 
-## ⚙️ 配置说明
+## 📖 目录
 
-配置文件 `script-opts/startup_format_logos.conf` 中的完整选项：
-
-### 基础选项
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `enabled` | `yes` | 是否启用 |
-| `style` | `color` | `color` = 彩色徽章，`white` = 透明白色图标 |
-| `show_video` | `yes` | 是否显示画面标准 Logo |
-| `show_audio` | `yes` | 是否显示音频标准 Logo |
-| `show_sdr` | `yes` | 是否为普通 SDR 画面显示彩色 SDR 徽章 |
-| `show_common_audio` | `yes` | 是否显示 FLAC、PCM、AAC、Opus、MP3 等常见音频格式徽章 |
-| `require_video` | `no` | 是否只在存在真实视频轨时显示 |
-| `filename_fallback` | `yes` | 是否允许从文件名/媒体标题/路径补充识别 |
-| `show_on_audio_change` | `yes` | 切换音轨后是否短暂显示新的音频格式 Logo |
-
-### 位置与布局
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `position` | `top-right` | 位置：`top-right`、`top-left`、`bottom-right`、`bottom-left` |
-| `anchor_to_video` | `yes` | 是否以实际视频画面边界为定位基准 |
-| `detect_encoded_bars` | `yes` | 是否检测编码进视频帧的黑边（常见于蓝光 ISO） |
-| `encoded_bar_threshold` | `16` | 黑边 RGB 阈值（0-48），越高越容易识别较浅的黑边 |
-| `encoded_bar_delay` | `0.18` | 等待画面稳定后抽样编码黑边的时间（秒） |
-| `margin_x` | `60` | 水平安全边距（随分辨率自动缩放） |
-| `margin_y` | `38` | 垂直安全边距（随分辨率自动缩放） |
-
-### 缩放与尺寸
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `scale` | `1.0` | 整体缩放倍率 |
-| `portrait_scale` | `1.18` | 竖屏模式下徽章额外倍率 |
-
-### 时间控制
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `delay` | `0.45` | 等待画面就绪后延迟显示的时间（秒） |
-| `hold` | `4.0` | 完全显示后的停留时间（秒） |
-| `fade_in` | `0.12` | 淡入时间（秒），设为 `0` 关闭 |
-| `fade_out` | `0.18` | 淡出时间（秒），设为 `0` 关闭 |
-| `frame_wait_timeout` | `5.0` | 等待首帧的最长时间（秒） |
-
-### 重试与优先级
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `retry_interval` | `0.25` | 轨道信息未就绪时的重试间隔（秒） |
-| `retry_count` | `8` | 最大检测次数 |
-| `video_priority` | `dolby-vision,hdr-vivid,hdr10-plus,hdr10,hlg,sdr` | 视频格式优先级 |
-| `audio_priority` | `dolby-atmos,dts-x,audio-vivid,...` | 音频格式优先级 |
-
-### 高级选项
-
-| 选项 | 默认值 | 说明 |
-|------|--------|------|
-| `asset_dir` | `~~/script-assets/startup-format-logos/runtime` | 资源目录 |
-| `overlay_id` | `50` | 占用的 overlay ID（连续三个，默认 50、51、52） |
+- [功能特性](#-功能特性)
+- [安装](#-安装)
+- [配置说明](#-配置说明)
+- [脚本消息](#-脚本消息)
+- [用户数据](#-用户数据)
+- [依赖](#-依赖)
+- [许可证](#-许可证)
 
 ---
 
-## 📨 脚本消息
+## ✨ 功能特性
 
-可通过 `mp.commandv("script-message", ...)` 调用：
+- 🎬 **视频格式识别**：Dolby Vision、HDR Vivid、HDR10+、HDR10、HLG、SDR
+- 🔊 **音频格式识别**：Dolby Atmos、DTS:X、Audio Vivid、Dolby TrueHD、DTS-HD MA、DTS-HD HRA、Dolby Digital Plus、Dolby Digital、DTS、AC-4、MPEG-H、FLAC、ALAC、PCM、MLP、WavPack、APE、WMA、Opus、AAC、Vorbis、MP3
+- 🎨 **两种样式**：彩色徽章 / 透明白色图标
+- 📐 **智能定位**：自动检测黑边（含蓝光编码黑边），将徽章置于画面安全区内
+- 📱 **横竖屏自适应**：自动适配横屏/竖屏比例
+- 🎞️ **多音轨支持**：切换音轨时自动刷新显示
+- ⚡ **淡入淡出动画**
+- 🔧 **高度可配置**：优先级、位置、缩放、停留时间等全部可调
 
-| 消息 | 参数 | 说明 |
-|------|------|------|
-| `startup-format-logos-show` | 无 | 手动触发检测并显示 |
-| `startup-format-logos-preview` | `<video_slug>` `<audio_slug>` | 预览指定格式组合 |
-| `startup-format-logos-hide` | 无 | 隐藏 Logo |
-| `startup-format-logos-toggle` | 无 | 开关启用状态 |
-| `startup-format-logos-set-style` | `color` / `white` | 切换样式 |
+---
 
-### 使用示例
+## 📦 安装
 
-```lua
--- 在 mpv 中通过脚本调用
-mp.commandv("script-message", "startup-format-logos-toggle")
+### 1. 目录结构
 
--- 预览 Dolby Vision + Dolby Atmos
-mp.commandv("script-message", "startup-format-logos-preview", "dolby-vision", "dolby-atmos")
+将以下文件放入 mpv 的 `portable_config` 目录：
