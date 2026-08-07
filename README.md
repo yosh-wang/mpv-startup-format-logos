@@ -123,6 +123,8 @@
 3. 解压后，在 `portable_config/scripts/` 目录下找到 `startup-format-logos.lua` 文件，
 4. 解压后，在 `portable_config/script-opts/` 目录下找到 `startup_format_logos.conf` 文件，
 
+> **关于 HDR Vivid / Audio Vivid 识别**：要实现 HDR Vivid 和 Audio Vivid 的准确识别，需要使用杳知编译的 `mpv.exe`（即 `mpv-Yaozhi` 整合包中的播放器核心）。标准版 mpv 可能缺少识别这些国产标准所需的特定参数和元数据解析能力。
+
 ## 📦 安装
 
 ### 1. 目录结构
