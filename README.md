@@ -139,12 +139,12 @@
 
 ### 1. 目录结构
 
-将以下文件放入 mpv 的 `portable_config` 目录：
+将以下文件放入 你自己的 mpv 的 `portable_config` 目录：
 
 ```
 portable_config/
 ├── script-assets/                       # 图标资源目录（需额外下载）
-│   └── startup-format-logos/
+│  
 ├── scripts/
 │   └── startup-format-logos.lua         # 主脚本
 └── script-opts/
