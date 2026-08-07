@@ -47,12 +47,34 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
-[![GitHub issues](https://img.shields.io/github/issues/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/issues)
-[![GitHub license](https://img.shields.io/github/license/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/watchers)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
+[![GitHub issues](https://img.shields.io/github/issues/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+[![GitHub license](https://img.shields.io/github/license/yosh-wang/mpv-startup-format-logos?style=flat-square)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/releases/latest)
+[![GitHub tag](https://img.shields.io/github/v/tag/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/tags)
+[![GitHub release date](https://img.shields.io/github/release-date/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/releases)
+[![GitHub downloads (latest)](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/latest/total)](https://github.com/yosh-wang/mpv-startup-format-logos/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/total)](https://github.com/yosh-wang/mpv-startup-format-logos/releases)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (monthly)](https://img.shields.io/github/commit-activity/m/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (weekly)](https://img.shields.io/github/commit-activity/w/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub commit activity (yearly)](https://img.shields.io/github/commit-activity/y/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+[![GitHub contributors (anon)](https://img.shields.io/github/contributors-anon/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/graphs/contributors)
+
+[![GitHub top language](https://img.shields.io/github/languages/top/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub language count](https://img.shields.io/github/languages/count/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
 [![GitHub repo size](https://img.shields.io/github/repo-size/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![GitHub file count](https://img.shields.io/github/directory-file-count/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
 [![Lines of Code](https://img.shields.io/tokei/lines/github/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
 
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
@@ -60,6 +82,8 @@
 ![MPV](https://img.shields.io/badge/MPV-Player-blue)
 ![Language](https://img.shields.io/badge/Language-Lua-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Translation](https://img.shields.io/badge/Translation-100%25-brightgreen)
+![Chinese](https://img.shields.io/badge/语言-中文-red)
 
 ---
 
