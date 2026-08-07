@@ -39,47 +39,27 @@
 </table>
 
 ---
-# 🎬 uosc Video Tags 视频技术标签模块
+# mpv-startup-format-logos
 
-[![GitHub stars](https://img.shields.io/github/stars/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/watchers)
+> 本脚本提取自 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 整合包，是其中"专业起播格式标识"功能的独立实现。感谢 @Yaozhil 为 mpv 中文社区所做的卓越贡献！ 🙏
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/forks)
-[![GitHub issues](https://img.shields.io/github/issues/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/issues)
-[![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/graphs/contributors)
-[![GitHub license](https://img.shields.io/github/license/yosh-wang/uosc-video-tags?style=flat-square)](https://github.com/yosh-wang/uosc-video-tags/blob/main/LICENSE)
+在 mpv 播放器启动时，于画面角落显示当前视频/音频格式的徽章（如 Dolby Vision、Dolby Atmos、HDR10+、FLAC 等）。
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/releases/latest)
-[![GitHub tag](https://img.shields.io/github/v/tag/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/tags)
-[![GitHub release date](https://img.shields.io/github/release-date/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/releases)
-[![GitHub downloads (latest)](https://img.shields.io/github/downloads/yosh-wang/uosc-video-tags/latest/total)](https://github.com/yosh-wang/uosc-video-tags/releases/latest)
-[![GitHub downloads](https://img.shields.io/github/downloads/yosh-wang/uosc-video-tags/total)](https://github.com/yosh-wang/uosc-video-tags/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/yosh-wang/uosc-video-tags/blob/main/LICENSE)
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/commits/main)
-[![GitHub commit activity (monthly)](https://img.shields.io/github/commit-activity/m/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/commits/main)
-[![GitHub commit activity (weekly)](https://img.shields.io/github/commit-activity/w/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/commits/main)
-[![GitHub commit activity (yearly)](https://img.shields.io/github/commit-activity/y/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/commits/main)
-[![GitHub contributors](https://img.shields.io/github/contributors/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/graphs/contributors)
-[![GitHub contributors (anon)](https://img.shields.io/github/contributors-anon/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags/graphs/contributors)
-
-[![GitHub top language](https://img.shields.io/github/languages/top/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
-[![GitHub language count](https://img.shields.io/github/languages/count/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
-[![GitHub repo size](https://img.shields.io/github/repo-size/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
-[![GitHub code size](https://img.shields.io/github/languages/code-size/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
-[![GitHub file count](https://img.shields.io/github/directory-file-count/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
-[![Lines of Code](https://img.shields.io/tokei/lines/github/yosh-wang/uosc-video-tags)](https://github.com/yosh-wang/uosc-video-tags)
+[![GitHub stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
+[![GitHub issues](https://img.shields.io/github/issues/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/issues)
+[![GitHub license](https://img.shields.io/github/license/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/LICENSE)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/releases/latest)
+[![GitHub downloads](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/total)](https://github.com/yosh-wang/mpv-startup-format-logos/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
+[![Lines of Code](https://img.shields.io/tokei/lines/github/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos)
 
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)
 ![MPV](https://img.shields.io/badge/MPV-Player-blue)
 ![Language](https://img.shields.io/badge/Language-Lua-red)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
-![Translation](https://img.shields.io/badge/Translation-100%25-brightgreen)
-![Chinese](https://img.shields.io/badge/语言-中文-red)
 
 ---
 
