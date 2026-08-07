@@ -128,11 +128,8 @@
 
 ```
 portable_config/
-├── script-assets/
+├── script-assets/                       # 图标资源目录（需额外下载）
 │   └── startup-format-logos/
-│       └── runtime/                     # 图标资源目录（需额外下载）
-│           ├── manifest.json
-│           └── *.png
 ├── scripts/
 │   └── startup-format-logos.lua         # 主脚本
 └── script-opts/
