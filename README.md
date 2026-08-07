@@ -124,14 +124,6 @@
 
 ![预览图](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/%E9%A2%84%E8%A7%88%E5%9B%BE.png?raw=true)
 
-**彩色徽章版**
-
-![起播格式标识彩色版总览](docs/images/startup-format-badges-color-overview.png)
-
-**透明白图标版**
-
-![起播格式标识透明白版总览](docs/images/startup-format-badges-white-overview.png)
-
 ---
 
 ## 📦 获取资源文件
