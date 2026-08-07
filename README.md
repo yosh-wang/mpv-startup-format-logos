@@ -141,32 +141,6 @@ portable_config/
 └── script-opts/
     └── startup_format_logos.conf        # 配置文件
 ```
-
-### 2. 下载资源文件
-
-**⚠️ 重要**：图标资源包涉及 Dolby、DTS 等品牌商标，不包含在本仓库中。
-
-请从 **[Releases](https://github.com/yourname/mpv-startup-format-logos/releases)** 下载 `assets.zip`，解压后放入 `script-assets/startup-format-logos/` 目录。
-
-最终目录结构应为：
-
-```
-script-assets/startup-format-logos/runtime/
-├── manifest.json
-├── backgrounds/
-│   └── *.png
-├── logos/
-│   ├── color/
-│   │   └── *.png
-│   └── white/
-│       └── *.png
-└── variants/
-    ├── 1x/
-    │   └── *.png
-    └── 2x/
-        └── *.png
-```
-
 ---
 
 ## ⚙️ 配置说明
