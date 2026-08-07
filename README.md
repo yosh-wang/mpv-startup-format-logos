@@ -126,6 +126,15 @@
 
 ---
 
+## 📦 获取资源文件
+
+**⚠️ 重要**：请从 **[Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi)** 整合包中提取。
+
+1. 访问 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 仓库，下载最新的整合包（Releases 或完整压缩包）。
+2. 解压后，在 `portable_config` 目录下找到 `startup-format-logos` 文件夹，
+3. 解压后，在 `portable_config/scripts/` 目录下找到 `startup-format-logos.lua` 文件，
+4. 解压后，在 `portable_config/script-opts/` 目录下找到 `startup_format_logos.conf` 文件，
+
 ## 📦 安装
 
 ### 1. 目录结构
