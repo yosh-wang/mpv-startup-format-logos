@@ -83,25 +83,6 @@
 
 ---
 
-群友：[杳知](https://github.com/Yaozhil) 原创                 群友：寻 二创，适配 [dyphire](https://github.com/dyphire/mpv-config)整合包：
-
-感谢二位的付出.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # mpv-startup-format-logos
 
 > 本脚本提取自 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 整合包，是其中"专业起播格式标识"功能的独立实现。感谢 @Yaozhil 为 mpv 中文社区所做的卓越贡献！ 🙏
