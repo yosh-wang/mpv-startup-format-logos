@@ -120,6 +120,12 @@
 
 ---
 
+## 📸 预览
+
+![预览图](https://github.com/yosh-wang/mpv-startup-format-logos/blob/main/%E9%A2%84%E8%A7%88%E5%9B%BE.png?raw=true)
+
+---
+
 ## 📦 安装
 
 ### 1. 目录结构
