@@ -122,6 +122,7 @@
 2. 解压后，在 `portable_config` 目录下找到 `startup-format-logos` 文件夹，
 3. 解压后，在 `portable_config/scripts/` 目录下找到 `startup-format-logos.lua` 文件，
 4. 解压后，在 `portable_config/script-opts/` 目录下找到 `startup_format_logos.conf` 文件，
+5. 解压后，在 `portable_config/script-modules/` 目录下找到 `startup-logo-bounds.lua` 文件，
 
 > **关于 HDR Vivid / Audio Vivid 识别**：要实现 HDR Vivid 和 Audio Vivid 的准确识别，需要使用[杳知](https://github.com/Yaozhil/mpv-Yaozhi) 编译的 `mpv.exe`（即 `mpv-Yaozhi` 整合包中的播放器核心）。标准版 mpv 可能缺少识别这些国产标准所需的特定参数和元数据解析能力。
 
@@ -132,13 +133,24 @@
 将以下文件放入 你自己的 mpv 的 `portable_config` 目录：
 
 ```
+
 portable_config/
-├── script-assets/                       # 图标资源目录（需额外下载）
-│  
+│
+├── script-assets/ 
+│   └── startup-format-logos/           → LOGO 图片资源（.bgra 格式）
+│       
+│
 ├── scripts/
-│   └── startup-format-logos.lua         # 主脚本
+│   └── startup-format-logos.lua             → 主脚本
+│      
+│
+├── script-modules/
+│   └── startup-logo-bounds.lua              → 依赖模块（关键！）
+│      
+│
 └── script-opts/
-    └── startup_format_logos.conf        # 配置文件
+    └── startup_format_logos.conf            → 配置文件
+
 ```
 ---
 
