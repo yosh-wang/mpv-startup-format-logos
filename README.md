@@ -42,10 +42,6 @@
 ---
 # mpv-startup-format-logos
 
-> 本脚本提取自 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 整合包，是其中"专业起播格式标识"功能的独立实现。感谢 @Yaozhil 为 mpv 中文社区所做的卓越贡献！ 🙏
-
-在 mpv 播放器启动时，于画面角落显示当前视频/音频格式的徽章（如 Dolby Vision、Dolby Atmos、HDR10+、FLAC 等）。
-
 [![GitHub stars](https://img.shields.io/github/stars/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/forks)
 [![GitHub watchers](https://img.shields.io/github/watchers/yosh-wang/mpv-startup-format-logos)](https://github.com/yosh-wang/mpv-startup-format-logos/watchers)
@@ -87,8 +83,6 @@
 ![Chinese](https://img.shields.io/badge/语言-中文-red)
 
 ---
-
-# mpv-startup-format-logos
 
 > 本脚本提取自 [Yaozhil/mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) 整合包，是其中"专业起播格式标识"功能的独立实现。感谢 @Yaozhil 为 mpv 中文社区所做的卓越贡献！ 🙏
 
