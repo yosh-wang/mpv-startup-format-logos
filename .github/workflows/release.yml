@@ -1,0 +1,42 @@
+name: Publish Release
+
+# 在 Actions 标签页点 "Run workflow" 手动触发
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release 版本号 / tag，例如 v14.0'
+        required: true
+        default: 'v14.0'
+
+permissions:
+  contents: write   # 必须，否则无权创建 Release
+
+jobs:
+  release:
+    name: Create GitHub Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create release and upload asset
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.version }}
+          name: ${{ github.event.inputs.version }}
+          # 下面这段 body 会被拼在 GitHub 自动生成的更新日志【前面】
+          # 自动日志会补上 "更新内容 / 完整更新日志：vX...vY"
+          body: |
+            ⭐ 下载量
+
+            ![Downloads](https://img.shields.io/github/downloads/yosh-wang/mpv-startup-format-logos/${{ github.event.inputs.version }}/total?style=for-the-badge&label=Downloads&color=2ea44f)
+
+            ---
+
+          generate_release_notes: true   # 自动生成更新内容 + 完整更新日志
+          make_latest: true              # 打上 Latest 标记
+          files: |
+            mpv-startup-format-logos.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
