@@ -298,6 +298,7 @@ MIT License
 ## 🙏 致谢
 
 - [mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) — 本脚本的原始来源，感谢 @Yaozhil 的杰出工作
+- 
 - [mpv](https://mpv.io/) — 强大的媒体播放器
 
 ---
